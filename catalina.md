@@ -4,8 +4,7 @@ These [Google slides](https://docs.google.com/presentation/d/1_2ybhWlbg_Y_NrTQ_F
 
 You can contact me *(lists need a carriage return before list items)*: 
 
-- twitter: [@juliesquid](https://twitter.com/juliesquid)
-- github: [@jules32](https://github.com/jules32)
+- github: [@ScienceCat18](https://github.com/ScienceCat18)
 
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
